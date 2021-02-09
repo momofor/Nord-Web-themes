@@ -1,0 +1,16 @@
+:root {
+  --textinputs: #2e3440;
+  --pagecolor: #2e3440;
+  --btn-color: #455981;
+  --secondarytext: #4b535e;
+  --whitetext: #dedede;
+  --bodytext: #629499;
+  --replytext: #b3dcde;
+  --replybkg: #7646ff;
+  --contacts: #7dc5cd;
+  --gradientleft: rgba(90, 50, 230, 0.9);
+  --gradientright: rgba(173, 83, 240, 0.8);
+  --background-secondary-alt: #2e3440 !important;
+  --bg-color: #2e3440 !important;
+  --main-color: #dedede !important;
+}
