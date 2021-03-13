@@ -24,7 +24,7 @@ function doDiscord() {
 
   link.type = "text/css";
   link.rel = "stylesheet";
-  link.id = "webThemesFramework";
+  link.id = "Nord websites";
   link.href = a;
 
   document.head.appendChild(link);
@@ -37,7 +37,7 @@ function doYouTube() {
 
   link.type = "text/css";
   link.rel = "stylesheet";
-  link.id = "webThemesFramework";
+  link.id = "Nord websites";
   link.href = a;
 
   document.head.appendChild(link);
@@ -51,7 +51,7 @@ function doDev() {
 
   link.type = "text/css";
   link.rel = "stylesheet";
-  link.id = "webThemesFramework";
+  link.id = "Nord websites";
   link.href = a;
 
   document.head.appendChild(link);
@@ -65,7 +65,7 @@ function doMonkey() {
 
   link.type = "text/css";
   link.rel = "stylesheet";
-  link.id = "webThemesFramework";
+  link.id = "Nord websites";
   link.href = a;
 
   document.head.appendChild(link);
@@ -78,7 +78,7 @@ function doReddit() {
 
   link.type = "text/css";
   link.rel = "stylesheet";
-  link.id = "webThemesFramework";
+  link.id = "Nord websites";
   link.href = a;
 
   document.head.appendChild(link);
