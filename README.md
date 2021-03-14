@@ -62,15 +62,3 @@ This project is [Mit](LICENSE) licensed.
 ***
 _This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
 Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](Issues). You can also take a look at the [contributing guide](wiki).
-
-## Show your support
-
-Give a ⭐️ if this project helped you!
-
-## 📝 License
-
-Copyright © 2021 [Ryan-da-ghost](https://github.com/Ryan-da-ghost).<br />
-This project is [Mit](LICENSE) licensed.
-
-***
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
