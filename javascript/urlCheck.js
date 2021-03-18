@@ -15,7 +15,7 @@ if (thisSite === "discordapp.com" || thisSite === "discord.com") {
 }
 
 
-// ---------------------------- AD CSS ------------------------------
+// ---------------------------- ADD CSS ------------------------------
 
 // discord.com
 function doDiscord() {
