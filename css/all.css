@@ -6,3 +6,9 @@ svg {
 g {
     fill: white !important; 
 }
+
+@import 'deviantart.css';
+@import 'discord.css';
+@import 'monkeytype.css';
+@import 'reddit.css';
+@import 'youtube.css';
