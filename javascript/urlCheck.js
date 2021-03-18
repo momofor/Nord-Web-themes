@@ -11,7 +11,7 @@ if (thisSite === "discordapp.com" || thisSite === "discord.com") {
 } else if(thisSite === "monkeytype.com") {
   doMonkey();
 } else if(thisSite === "www.reddit.com") {
-  doReddit();
+  doReddit(); // uncomment this
 }
 
 
