@@ -104,7 +104,7 @@ body {
 }
 
 .theme-dark .body-3iLsc4 {
-    background-color: --pagecolor;
+    background-color: var(--pagecolor);
 }
 
 .theme-dark .footer-1fjuF6 {
