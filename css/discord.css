@@ -1,8 +1,10 @@
 :root {
-    --textinputs: #2e3440;
+    --textinputs: #343c4c;
     --pagecolor: #2e3440;
     --btn-color: #455981;
-    --secondarytext: #4b535e;
+    --secondarytext: #5e81ac;
+    --usertext: #81a1c1;
+    --redtext: #8c3c4c;
     --whitetext: #dedede;
     --bodytext: #629499;
     --replytext: #b3dcde;
@@ -12,9 +14,10 @@
     --gradientright: rgba(173, 83, 240, 0.8);
     --background-secondary-alt: #2e3440 !important;
 }
+
 .theme-dark {
     --header-secondary: var(--bodytext);
-    --text-normal: var(--bodytext);
+    --text-normal: var(--secondarytext);
     --text-muted: var(--secondarytext);
     --channels-default: var(--secondarytext);
     --interactive-normal: var(--bodytext);
@@ -46,47 +49,82 @@
     --deprecated-text-input-border-disabled: var(--textinputs);
     --deprecated-text-input-prefix: var(--whitetext);
 }
+
 body {
     font-weight: 300 !important;
     zoom: 0.9;
 }
+
 .header-2o-2hj {
     color: var(--whitetext);
 }
+
 .circleIconButton-jET_ig,
 .message-3SOT5P {
     color: var(--secondarytext);
 }
+
 .item-2hkk8m {
     background-color: var(--bodytext);
 }
+
 .base-1x0h_U {
     color: var(--secondarytext);
 }
+
 .close-relY5R {
     color: var(--secondarytext);
 }
+
 .lookFilled-1Gx00P.colorBrand-3pXr91 {
     background-color: var(--secondarytext);
 }
+
+/* Scrollbar grab bar */
 .theme-dark .scrollerThemed-2oenus.themedWithTrack-q8E3vB .scroller-2FKFPG::-webkit-scrollbar-thumb {
     background: linear-gradient( 130deg, var(--gradientright), var(--gradientleft) ) !important;
     border: 1px solid var(--textinputs);
 }
+
+/* Scrollbar container */
 .theme-dark .scrollerThemed-2oenus.themedWithTrack-q8E3vB .scroller-2FKFPG::-webkit-scrollbar-track-piece {
     background-color: var(--textinputs);
     border: none;
 }
+
 .theme-dark .isMentioned-N-h9aa {
     background-color: var(--textinputs);
 }
+
 .theme-dark .isMentioned-N-h9aa .mention {
     background: linear-gradient( 130deg, var(--gradientright), var(--gradientleft) ) !important;
     color: var(--bodytext);
 }
+
+.theme-dark .headerNormal-T_seeN {
+    background-color: var(--pagecolor);
+}
+
+.theme-dark .headerTagUsernameNoNickname-2_H881 {
+    color: var(--usertext);
+}
+
+.theme-dark .headerText-3Uvj1Y .username-1A8OIy {
+    color: var(--usertext);
+}
+
+.theme-dark .body-3iLsc4 {
+    background-color: var(--pagecolor);
+}
+
+.theme-dark .footer-1fjuF6 {
+    background-color: var(--pagecolor);
+}
+
 .offline-3nJYBR {
     opacity: 1;
 }
+
 .lookFilled-1Gx00P.colorGreen-29iAKY {
     color: #fff;
     background-color: var(--btn-color);
@@ -95,15 +133,16 @@ body {
     color: #fff;
     background-color: var(--btn-color);
 }
+
 #ONLINE-tab {
-    background-color: var(--textinputs);
+    background-color: var(--pagecolor) !important;
 }
 #ALL-tab {
-    background-color: var(--textinputs);
+    background-color: var(--pagecolor) !important;
 }
 #PENDING-tab {
-    background-color: var(--textinputs);
+    background-color: var(--pagecolor) !important;
 }
 #BLOCKED-tab {
-    background-color: var(--textinputs);
+    background-color: var(--pagecolor) !important;
 }
