@@ -3,6 +3,7 @@
     --pagecolor: #2e3440;
     --btn-color: #455981;
     --secondarytext: #5e81ac;
+    --usertext: #81a1c1;
     --redtext: #8c3c4c;
     --whitetext: #dedede;
     --bodytext: #629499;
@@ -16,7 +17,7 @@
 
 .theme-dark {
     --header-secondary: var(--bodytext);
-    --text-normal: var(--bodytext);
+    --text-normal: var(--secondarytext);
     --text-muted: var(--secondarytext);
     --channels-default: var(--secondarytext);
     --interactive-normal: var(--bodytext);
@@ -104,8 +105,12 @@ body {
     background-color: var(--pagecolor);
 }
 
+.theme-dark .headerTagUsernameNoNickname-2_H881 {
+    color: var(--usertext);
+}
+
 .theme-dark .headerText-3Uvj1Y .username-1A8OIy {
-    color: #81a1c1;
+    color: var(--usertext);
 }
 
 .theme-dark .body-3iLsc4 {
