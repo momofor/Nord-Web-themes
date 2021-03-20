@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to Nord Websites 👋</h1>
+<h1 align="center">Welcome to Nord Web Themes 👋</h1>
 <h2>🥳 <a href="https://addons.mozilla.org/en-US/firefox/addon/nord-web-theme/" target="_blank">We are on the Firefox Marketplace</h2>
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-1.1-blue.svg?cacheSeconds=2592000" />
