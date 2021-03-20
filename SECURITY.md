@@ -11,8 +11,8 @@ currently being supported with security updates.
 
 ## Reporting a Vulnerability
 
-Use this section to tell people how to report a vulnerability.
+To report a vulnerability in our code , please create a new issue / pull request (if you know how to fix it) and tell the vulnerability.
 
-Tell them where to go, how often they can expect to get an update on a
-reported vulnerability, what to expect if the vulnerability is accepted or
-declined, etc.
+## When will vulnerability get Fixed ?
+
+We will try to reach the limits which this extension and see if we find any issues but until then, feel free to report a vulnerability.
