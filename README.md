@@ -47,7 +47,7 @@ For Firefox (Will come on the marketplace):
 
 ## 🤝 Contributing
 
-Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](Issues). You can also take a look at the [contributing guide](wiki).
+Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](Issues). You can also take a look at the [contributing guide](https://github.com/Ryan-da-ghost/Nord-Web-Themes/blob/main/CONTRIBUTING.md).
 
 ## Show your support
 
