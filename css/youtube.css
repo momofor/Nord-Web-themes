@@ -1,9 +1,9 @@
-@import url('all.css');
+@import url("all.css");
 
 :root {
   --textinputs: #2e3440;
   --pagecolor: #2e3440;
-  --yt-searchbox-background: #2e3440 !important;
+  --yt-searchbox-background: #7dc5cd !important;
   --secondarytext: #4b535e;
   --whitetext: #dedede;
   --bodytext: #629499;
@@ -69,4 +69,33 @@ html:not(.style-scope)[dark],
 
 paper-button.ytd-subscribe-button-renderer {
   background-color: var(--btn-color) !important;
+}
+
+#contents,
+.style-scope.ytd-page-manager,
+.style-scope.ytd-two-column-browse-results-renderer {
+  background-color: var(--pagecolor) !important;
+}
+
+.ytd-searchbox,
+#search-input,
+#search,
+#search:hover,
+#search:focus,
+.ytd-searchbox:focus,
+.ytd-searchbox:hover {
+  background: #2e3440 !important;
+  border: #2e3440 !important;
+}
+
+.style-scope.ytd-destination-shelf-renderer:hover {
+  background-color: transparent;
+}
+
+#like-bar {
+  background: #629499 !important;
+}
+
+.yt-simple-endpoint.style-scope.yt-formatted-string {
+  color: #b3dcde !important;
 }
