@@ -20,7 +20,7 @@ $ git clone https://github.com/Ryan-da-ghost/Nord-websites
 
 ```sh
 For Chrome:
-- Go to the chorme://extensions page
+- Go to the chrome://extensions page
 - Make sure you turned on developer mode
 - Click on load unpacked and select the Unziped file you downloaded
 For Edge (Will come on the marketplace):
