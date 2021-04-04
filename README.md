@@ -1,7 +1,8 @@
 <h1 align="center">Welcome to Nord Web Themes 👋</h1>
-<h2>🥳 <a href="https://addons.mozilla.org/en-US/firefox/addon/nord-web-theme/" target="_blank">We are on the Firefox Marketplace</h2>
+<h2>🥳 <a href="https://addons.mozilla.org/en-US/firefox/addon/nord-web-theme/" target="_blank">We are on the Firefox Marketplace</a></h2>
+<h3><a href="https://discord.gg/VaTDrWrF6a" target="_blank">Join our discord server</a></h3>
 <p>
-  <img alt="Version" src="https://img.shields.io/badge/version-1.1-blue.svg?cacheSeconds=2592000" />
+  <img alt="Version" src="https://img.shields.io/badge/version-1.1.3-blue.svg?cacheSeconds=2592000" />
   <a href="LICENSE" target="_blank">
     <img alt="License: Mit" src="https://img.shields.io/badge/License-Mit-yellow.svg" />
   </a>
@@ -52,6 +53,10 @@ Contributions, issues and feature requests are welcome!<br />Feel free to check 
 ## Show your support
 
 Give a ⭐️ if this project helped you!
+
+## ⭐️ Help 
+ 
+<iframe src="https://discord.com/widget?id=828130756894523393&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
 
 ## 📝 License
 
