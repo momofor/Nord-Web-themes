@@ -56,7 +56,11 @@ Give a ⭐️ if this project helped you!
 
 ## ⭐️ Help 
 
-Join Our Discord Support server - https://discord.gg/VaTDrWrF6a
+
+
+<div id='discord-widget'></div>
+
+<script type='text/javascript' src='https://ajzbc.com/discord-widget/widget.js' link='https://discord.gg/VaTDrWrF6a' text='Join The Support server' color=''></script>
 
 ## 📝 License
 
