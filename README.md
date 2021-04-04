@@ -55,8 +55,8 @@ Contributions, issues and feature requests are welcome!<br />Feel free to check 
 Give a ⭐️ if this project helped you!
 
 ## ⭐️ Help 
- 
-<img><iframe src="https://discord.com/widget?id=828130756894523393&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe></img>
+
+Join Our Discord Support server - https://discord.gg/VaTDrWrF6a
 
 ## 📝 License
 
