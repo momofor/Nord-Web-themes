@@ -1,11 +1,6 @@
 <h1 align="center">Welcome to Nord Web Themes 👋</h1>
-<h2>🥳 <a href="https://addons.mozilla.org/en-US/firefox/addon/nord-web-theme/" target="_blank">We are on the Firefox Marketplace</h2>
-<p>
-  <img alt="Version" src="https://img.shields.io/badge/version-1.1-blue.svg?cacheSeconds=2592000" />
-  <a href="LICENSE" target="_blank">
-    <img alt="License: Mit" src="https://img.shields.io/badge/License-Mit-yellow.svg" />
-  </a>
-</p>
+<h2>🥳 <a href="https://addons.mozilla.org/en-US/firefox/addon/nord-web-theme/" target="_blank">We are on the Firefox Marketplace</a></h2>
+<h3><a href="https://discord.gg/VaTDrWrF6a" target="_blank">Join our discord server</a></h3>
 
 > This is a Chrome Extension Which makes popular websites like youtube and discord look good, if you use the google chrome nord theme this will look even better ! Feel free to use this on Edge/Firefox/Google Chrome
 >
@@ -52,6 +47,10 @@ Contributions, issues and feature requests are welcome!<br />Feel free to check 
 ## Show your support
 
 Give a ⭐️ if this project helped you!
+
+## ⭐️ Help 
+
+https://discord.gg/VaTDrWrF6a
 
 ## 📝 License
 
