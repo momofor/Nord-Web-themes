@@ -33,12 +33,12 @@ For Firefox (on the marketplace):
 
 <table>
   <tr>
-    <th align="center">[Ryan The Ghost](https://github.com/Ryan-da-ghost/)</th>
+    <th align="center"> <a href="https://github.com/Ryan-da-ghost/">Ryan The Ghost]</a> </th>
     <th><img src="https://avatars.githubusercontent.com/u/78041469?v=4" with="50" height="50"></th>
     <th>💻🤔📆</th>
   </tr>
   <tr>
-    <td align="center">[Quite A Fancy Emerald](https://github.com/quiteAFancyEmerald)</td>
+    <td align="center"> <a href="https://github.com/quiteAFancyEmerald">Quite A Fancy Emerald</a> </td>
     <td><img src="https://avatars.githubusercontent.com/u/46467239?v=4" with="50" height="50"></td>
     <td>💻</td>
   </tr>
