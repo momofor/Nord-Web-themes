@@ -33,7 +33,7 @@ For Firefox (on the marketplace):
 
 <table>
   <tr>
-    <th align="center"> <a href="https://github.com/Ryan-da-ghost/">Ryan The Ghost]</a> </th>
+    <th align="center"> <a href="https://github.com/Ryan-da-ghost/">Ryan The Ghost</a> </th>
     <th><img src="https://avatars.githubusercontent.com/u/78041469?v=4" with="50" height="50"></th>
     <th>💻🤔📆</th>
   </tr>
