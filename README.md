@@ -34,15 +34,16 @@ For Firefox (on the marketplace):
 <table>
   <tr>
     <th>Ryan The Ghost</th>
-    <th><img src="https://avatars.githubusercontent.com/u/78041469?v=4"></th>
+    <th><img src="https://avatars.githubusercontent.com/u/78041469?v=4" with="50" height="50"></th>
     <th>💻🤔📆</th>
   </tr>
   <tr>
     <td>Quite A Fancy Emerald</td>
-    <td><img src="https://avatars.githubusercontent.com/u/46467239?v=4"></td>
+    <td><img src="https://avatars.githubusercontent.com/u/46467239?v=4" with="50" height="50"></td>
     <td>💻</td>
   </tr>
 </table>
+
 ## 🤝 Contributing
 
 Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](Issues). You can also take a look at the [contributing guide](https://github.com/Ryan-da-ghost/Nord-Web-Themes/blob/main/CONTRIBUTING.md).
