@@ -4,13 +4,13 @@
 
 > This is a Chrome Extension Which makes popular websites like youtube and discord look good, if you use the google chrome nord theme this will look even better ! Feel free to use this on Edge/Firefox/Google Chrome
 
-## Install
+## 🏇 Install
 
 ```sh
 $ git clone https://github.com/Ryan-da-ghost/Nord-websites
 ```
 
-## Usage
+## 🐍 Usage
 
 ```sh
 For Chrome:
@@ -31,21 +31,19 @@ For Firefox (on the marketplace):
 
 ## 👥 Contributors
 
-- **[@Ryan-da-ghost](https://github.com/Ryan-da-ghost)**
-
-- **[@QuiteAFancyEmerald](https://github.com/QuiteAFancyEmerald)**
+| Ryan The Ghost | Quite A Fancy Emerald |
+|https://avatars.githubusercontent.com/u/78041469?v=4|https://avatars.githubusercontent.com/u/46467239?v=4|
+| 💻🤔📆 | 💻 |
 
 ## 🤝 Contributing
 
 Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](Issues). You can also take a look at the [contributing guide](https://github.com/Ryan-da-ghost/Nord-Web-Themes/blob/main/CONTRIBUTING.md).
 
-## Show your support
+## (ง ツ)ว Show your support
 
 Give a ⭐️ if this project helped you!
 
-## ⭐️ Help && Support
-
-https://discord.gg/VaTDrWrF6a
+And join our discord server: https://discord.gg/VaTDrWrF6a
 
 ## 📝 License
 
