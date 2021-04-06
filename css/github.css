@@ -1,0 +1,285 @@
+@import url("root.css");
+
+:root {
+  --color-prettylights-syntax-constant: #88c0d0 !important;
+  --color-prettylights-syntax-entity: #81a1c1 !important;
+  --color-prettylights-syntax-storage-modifier-import: #8fbcbb !important;
+  --color-prettylights-syntax-entity-tag: #a3be8c !important;
+  --color-prettylights-syntax-keyword: #bf616a !important;
+  --color-prettylights-syntax-string: #81a1c1 !important;
+  --color-prettylights-syntax-variable: #d08770 !important;
+  --color-prettylights-syntax-brackethighlighter-unmatched: #bf616a !important;
+  --color-prettylights-syntax-invalid-illegal-text: #e5e9f0 !important;
+  --color-prettylights-syntax-invalid-illegal-bg: #bf616a !important;
+  --color-prettylights-syntax-carriage-return-text: #8fbcbb !important;
+  --color-prettylights-syntax-carriage-return-bg: #bf616a !important;
+  --color-prettylights-syntax-string-regexp: #a3be8c !important;
+  --color-prettylights-syntax-markup-list: #ebcb8b !important;
+  --color-prettylights-syntax-markup-heading: #5e81ac !important;
+  --color-prettylights-syntax-markup-italic: #8fbcbb !important;
+  --color-prettylights-syntax-markup-bold: #8fbcbb !important;
+  --color-prettylights-syntax-markup-deleted-text: #eceff4 !important;
+  --color-prettylights-syntax-markup-deleted-bg: #bf616a !important;
+  --color-prettylights-syntax-markup-inserted-text: #b4f1b4 !important;
+  --color-prettylights-syntax-markup-inserted-bg: #a3be8c !important;
+  --color-prettylights-syntax-markup-changed-text: #ebcb8b !important;
+  --color-prettylights-syntax-markup-changed-bg: #bf616a !important;
+  --color-prettylights-syntax-markup-ignored-text: #adbac7 !important;
+  --color-prettylights-syntax-markup-ignored-bg: #255ab2 !important;
+  --color-prettylights-syntax-meta-diff-range: #dcbdfb !important;
+  --color-prettylights-syntax-brackethighlighter-angle: #768390 !important;
+  --color-prettylights-syntax-sublimelinter-gutter-mark: #545d68 !important;
+  --color-prettylights-syntax-constant-other-reference-link: #96d0ff !important;
+}
+
+/* For elements */
+
+body {
+  background-color: var(--pagecolor) !important;
+}
+
+.border {
+  border: 1px solid var(--textinputs) !important;
+}
+
+.border-bottom,
+.tabnav {
+  border: none !important;
+}
+
+a,
+.js-selected-navigation-item.selected.d-inline-block.subnav-primary.f5.py-0.py-md-3.mt-2.mt-md-0.mr-0.mr-md-4.no-underline.subnav-link,
+.px-3.pt-3 {
+  color: var(--secondarytext) !important;
+  box-shadow: none !important;
+  /*border: 1px solid var(--textinputs) !important;*/
+}
+
+h2 {
+  color: var(--secondarytext) !important;
+}
+
+svg {
+  fill: var(--secondarytext);
+}
+
+.octicon.octicon-mark-github.v-align-middle {
+  fill: var(--replytext) !important;
+}
+
+button {
+  box-shadow: none !important;
+}
+
+.color-bg-secondary {
+  background-color: var(--pagecolor) !important;
+}
+/* Navbar Element */
+
+/* _Nav Background */
+.Header.js-details-container.Details.px-3.px-md-4.px-lg-5.flex-wrap.flex-md-nowrap {
+  background: var(--pagecolor) !important;
+}
+
+/* _Nav items */
+.Header-link {
+  color: var(--replytext) !important;
+}
+
+/* _Nav Search Field */
+.form-control.input-sm.header-search-wrapper.p-0.js-chromeless-input-container.header-search-wrapper-jump-to.position-relative.d-flex.flex-justify-between.flex-items-center,
+.tabnav-tab.f6.px-2.py-1,
+#new_comment_field {
+  background: var(--textinputs) !important;
+  color: var(--replytext) !important;
+}
+
+/* Navbar Element Ending */
+
+/* Navbar Popup Element */
+/* _Nav popup head */
+.header-nav-current-user .user-profile-link,
+.dropdown-menu.dropdown-menu-sw {
+  background: var(--popup-color) !important;
+  color: var(--replytext) !important;
+}
+
+/* _nav popup main */
+.dropdown-item,
+.btn.btn-sm.btn-with-count.tooltipped.tooltipped-n.color-bg-primary.js-toggler-target.unstarred.js-remote-submit-button {
+  color: var(--replytext) !important;
+}
+
+.dropdown-item:hover {
+  background-color: transparent !important;
+  color: var(--contacts) !important;
+}
+
+/* _nav status - DOES NOT WORKING SINCE GITHUB USES !IMPORTANT */
+.Link--secondary:hover {
+  color: var(--contacts) !important;
+}
+
+/* MAIN BODY */
+
+/* Left Side */
+
+/* Left dashboard */
+.dashboard-sidebar.js-sticky.top-0.px-3.px-md-4.px-lg-5.overflow-auto {
+  background: var(--pagecolor) !important;
+}
+
+/* Left dashboard username text */
+/* * Repository text */
+/* * Team text */
+.no-underline.btn-link.color-text-primary.text-bold.width-full,
+.f4.hide-sm.hide-md.mb-1.f5.d-flex.flex-justify-between.flex-items-center,
+.Details.js-repos-container {
+  color: var(--replytext) !important;
+}
+
+/* * search */
+#dashboard-repos-filter-left {
+  background: var(--textinputs) !important;
+}
+
+/* * button */
+
+.btn-primary,
+.btn-mktg.px-3.py-2 {
+  background: var(--btn-color) !important;
+  background-color: var(--btn-color) !important;
+  border-color: var(--btn-color) !important;
+}
+
+.btn,
+.social-count {
+  background: var(--textinputs) !important;
+  background-color: var(--textinputs) !important;
+  border-color: var(--textinputs) !important;
+}
+
+/* Right Side */
+
+/* * Background */
+.d-flex.flex-wrap.color-bg-canvas-inset,
+.ajax-pagination-btn.btn.btn-outline.width-full.f6.mt-0.py-2.contribution-activity-show-more,
+.color-bg-secondary.pt-3.hide-full-screen.mb-5,
+.js-repo-nav.js-sidenav-container-pjax.js-responsive-underlinenav.overflow-hidden.UnderlineNav.px-3.px-md-4.px-lg-5.color-bg-secondary {
+  background: var(--pagecolor) !important;
+  background-color: var(--pagecolor) !important;
+  color: var(--secondarytext) !important;
+}
+
+/* * Box  */
+.Box,
+.btn-link.tabnav-tab.write-tab.js-write-tab.px-3.px-sm-6.px-md-3.flex-1.flex-md-autom,
+.orghead {
+  background: var(--popup-color) !important;
+}
+
+/* * * Avatar */
+.AvatarStack-body:hover,
+.AvatarStack-body,
+.timeline-comment,
+.comment-form-head.tabnav.d-flex.flex-justify-between.mb-2.p-0.tabnav--responsive.flex-column.border-bottom-0.mb-0.mb-lg-2.flex-items-stretch.border-lg-bottom.color-border-primary.flex-lg-items-center.flex-lg-row,
+.js-details-container.Details.toolbar-commenting.d-flex.no-wrap.flex-items-start.flex-wrap.px-2.pt-2.pt-lg-0.border-md-top.border-lg-top-0,
+.tabnav-tab.flex-shrink-0.selected.js-pjax-history-navigate,
+.timeline-comment-header,
+.tabnav-tab {
+  background: transparent !important;
+}
+
+/* Profile page */
+
+/* * Heading */
+.container-xl.px-3.px-md-4.px-lg-5 {
+  background-color: var(--pagecolor) !important;
+}
+
+/* * * Border bottom */
+.UnderlineNav-item.selected,
+.menu-item.selected::before,
+.menu-item[aria-current]:not([aria-current="false"])::before,
+.menu-item[aria-selected="true"]::before {
+  border-bottom-color: var(--textinputs) !important;
+}
+
+.TimelineItem-badge {
+  background-color: transparent !important;
+  border: none !important;
+}
+
+.color-bg-primary {
+  background: var(--pagecolor) !important;
+}
+
+.Progress-item.rounded-2 {
+  background-color: var(--replytext) !important;
+}
+
+.color-bg-canvas,
+.markdown-body .highlight pre,
+.markdown-body pre {
+  background: transparent !important;
+  background-color: transparent !important;
+}
+
+.color-text-secondary,
+.Link--muted:hover,
+.Link--muted {
+  color: var(--usertext) !important;
+}
+
+.border.py-2.graph-before-activity-overview,
+.menu,
+.menu-item.selected,
+.menu-item[aria-current]:not([aria-current="false"]),
+.menu-item[aria-selected="true"],
+.menu-item.selected:hover,
+.menu-item[aria-current]:not([aria-current="false"]),
+.menu-item[aria-selected="true"]:hover,
+.Box-header.Box-header--blue.position-relative,
+.d-flex.flex-items-center.flex-justify-between.color-bg-primary.js-sticky.js-position-sticky.top-0.border-bottom.border-top-0.rounded-top-2.p-2,
+.Box-header.Box-header--blue.Details.js-details-container,
+.Box-header.py-2.d-flex.flex-column.flex-shrink-0.flex-md-row.flex-md-items-center,
+.border-bottom.color-border-secondary,
+.Box-header.d-flex,
+.social-count.float-none,
+.d-block.comment-body.markdown-body.js-comment-body {
+  background-color: var(--popup-color) !important;
+  background: var(--popup-color) !important;
+}
+
+.Box-row--focus-gray.navigation-focus,
+.markdown-body img {
+  background-color: transparent !important;
+  background: transparent !important;
+}
+
+.position-absolute.right-0.left-0.bottom-0.text-center.mb-n3,
+.position-absolute.right-0.left-0.bottom-0.text-center {
+  display: none !important;
+}
+
+.topic-tag,
+.border.py-2.graph-before-activity-overview,
+.menu,
+.menu-item.selected,
+.menu-item[aria-current]:not([aria-current="false"]),
+.menu-item[aria-selected="true"],
+.menu-item.selected:hover,
+.menu-item[aria-current]:not([aria-current="false"]),
+.menu-item[aria-selected="true"]:hover,
+.Box-header.Box-header--blue.position-relative,
+.d-flex.flex-items-center.flex-justify-between.color-bg-primary.js-sticky.js-position-sticky.top-0.border-bottom.border-top-0.rounded-top-2.p-2,
+.Box-header.Box-header--blue.Details.js-details-container,
+.Box-header.py-2.d-flex.flex-column.flex-shrink-0.flex-md-row.flex-md-items-center,
+.border-bottom.color-border-secondary,
+.Box-header.d-flex,
+.social-count.float-none,
+.gh-header,
+.discussion-timeline-actions,
+.TimelineItem-break {
+  background: var(--pagecolor) !important;
+}
