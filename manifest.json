@@ -19,7 +19,9 @@
       "matches": [
         "*://discord.com/*",
         "*://www.youtube.com/*",
-        "*://github.com/*"
+        "*://www.deviantart.com/*",
+        "*://monkeytype.com/*",
+        "*://www.reddit.com/*"
       ],
       "js": ["javascript/urlCheck.js"]
     }
@@ -27,6 +29,8 @@
   "web_accessible_resources": [
     "css/discord.css",
     "css/youtube.css",
-    "css/github.css"
+    "css/deviantart.css",
+    "css/monkeytype.css",
+    "css/reddit.css"
   ]
 }
