@@ -6,11 +6,9 @@ if (thisSite === "discordapp.com" || thisSite === "discord.com") {
   doDiscord();
 } else if (thisSite === "www.youtube.com") {
   doYouTube();
-} else if(thisSite === "github.com") {
+} else if (thisSite === "github.com") {
   doDev();
-} 
-
-// ---------------------------- ADD CSS ------------------------------
+}
 
 // discord.com
 function doDiscord() {
@@ -19,7 +17,7 @@ function doDiscord() {
 
   link.type = "text/css";
   link.rel = "stylesheet";
-  link.id = "Nord Web Themes"
+  link.id = "Nord Web Themes";
   link.href = a;
 
   document.head.appendChild(link);
@@ -32,7 +30,7 @@ function doYouTube() {
 
   link.type = "text/css";
   link.rel = "stylesheet";
-  link.id = "Nord Web Themes"
+  link.id = "Nord Web Themes";
   link.href = a;
 
   document.head.appendChild(link);
@@ -40,15 +38,13 @@ function doYouTube() {
 
 // github.com
 function doDev() {
-
   let a = chrome.extension.getURL("css/github.css"),
     link = document.createElement("link");
 
   link.type = "text/css";
   link.rel = "stylesheet";
-  link.id = "Nord Web Themes"
+  link.id = "Nord Web Themes";
   link.href = a;
 
   document.head.appendChild(link);
 }
-

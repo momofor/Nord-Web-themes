@@ -4,8 +4,10 @@
 
 Please include a summary of the change and which issue is fixed. Please also include relevant context. List any dependencies that are required for this change.
 
-Fixes # (issue)
+Fixes #(issue)
+
 # ✔️ Pull Request
+
 ## 😃 Type of change
 
 - [ ] Bug fix (non-breaking change which fixes an issue)

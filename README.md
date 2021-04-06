@@ -3,7 +3,6 @@
 <h3><a href="https://discord.gg/VaTDrWrF6a" target="_blank">Join our discord server</a></h3>
 
 > This is a Chrome Extension Which makes popular websites like youtube and discord look good, if you use the google chrome nord theme this will look even better ! Feel free to use this on Edge/Firefox/Google Chrome
->
 
 ## Install
 
@@ -18,24 +17,20 @@ For Chrome:
 - Go to the chrome://extensions page
 - Make sure you turned on developer mode
 - Click on load unpacked and select the Unziped file you downloaded
+
 For Edge (Will come on the marketplace):
 - Go to the edge://extensions page
 - Make sure you turned on developer mode
 - Click on load unpacked and select the Unziped file you downloaded
-For Firefox (Will come on the marketplace):
+
+For Firefox (on the marketplace):
 - Go to the about:debugging page
 - Click On This Firefox
 - Click on load temporary addon and select the Unziped file you downloaded
 ```
 
-## Author
-
-👤 **Ryan-da-ghost**
-
-* Website: No website
-* Github: [@Ryan-da-ghost](https://github.com/Ryan-da-ghost)
-
 ## 👥 Contributors
+
 - **[@Ryan-da-ghost](https://github.com/Ryan-da-ghost)**
 
 - **[@QuiteAFancyEmerald](https://github.com/QuiteAFancyEmerald)**
@@ -48,7 +43,7 @@ Contributions, issues and feature requests are welcome!<br />Feel free to check 
 
 Give a ⭐️ if this project helped you!
 
-## ⭐️ Help 
+## ⭐️ Help && Support
 
 https://discord.gg/VaTDrWrF6a
 
@@ -57,6 +52,7 @@ https://discord.gg/VaTDrWrF6a
 Copyright © 2021 [Ryan-da-ghost](https://github.com/Ryan-da-ghost).<br />
 This project is [Mit](LICENSE) licensed.
 
-***
+---
+
 _This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
 Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](Issues). You can also take a look at the [contributing guide](wiki).

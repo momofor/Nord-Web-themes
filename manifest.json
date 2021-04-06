@@ -2,12 +2,12 @@
   "manifest_version": 2,
   "name": "Nord Web Themes",
   "version": "1.2.1",
-  "description": "An inspired web port of Nord, a rather stylish and clean theme. Supports many websites such as Discord, Reddit, YouTube , And many more to come.",
+  "description": "An inspired web port of Nord, a rather stylish and clean theme.",
   "author": "Ryan-da-Ghost, QuiteAFancyEmerald",
   "permissions": ["activeTab", "tabs"],
   "homepage_url": "https://github.com/Ryan-da-ghost/Nord-Websites",
   "icons": {
-    "120": "logo.png"
+    "256": "logo.png"
   },
   "browser_action": {
     "default_icon": "logo.png",
@@ -19,9 +19,7 @@
       "matches": [
         "*://discord.com/*",
         "*://www.youtube.com/*",
-        "*://www.deviantart.com/*",
-        "*://monkeytype.com/*",
-        "*://www.reddit.com/*"
+        "*://github.com/*"
       ],
       "js": ["javascript/urlCheck.js"]
     }
@@ -29,8 +27,6 @@
   "web_accessible_resources": [
     "css/discord.css",
     "css/youtube.css",
-    "css/deviantart.css",
-    "css/monkeytype.css",
-    "css/reddit.css"
+    "css/github.css"
   ]
 }
