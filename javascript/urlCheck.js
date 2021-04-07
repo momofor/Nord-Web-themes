@@ -1,8 +1,6 @@
 "use strict";
 let thisSite = window.location.host;
-const browser = window.chrome || window.browser;
 
-alert(get("discord"));
 // Check the current URL
 if (thisSite === "discordapp.com" || thisSite === "discord.com") {
   doDiscord();
