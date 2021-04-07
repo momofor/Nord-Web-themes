@@ -34,6 +34,5 @@
   "web_accessible_resources": ["css/*"],
   "background": {
     "scripts": ["index.js"]
-  },
-  "default_locale": "en"
+  }
 }
