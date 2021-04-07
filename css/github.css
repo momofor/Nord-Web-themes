@@ -30,6 +30,9 @@
   --color-prettylights-syntax-brackethighlighter-angle: #768390 !important;
   --color-prettylights-syntax-sublimelinter-gutter-mark: #545d68 !important;
   --color-prettylights-syntax-constant-other-reference-link: #96d0ff !important;
+
+  /* Fixing an issue with a github var, fixing bottom color on pages such as the org members page */
+  --color-bg-canvas: var(--pagecolor) !important;
 }
 
 /* For elements */
