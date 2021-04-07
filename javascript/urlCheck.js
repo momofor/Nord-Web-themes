@@ -1,12 +1,6 @@
 "use strict";
 let thisSite = window.location.host;
 const browser = window.chrome || window.browser;
-function set(name, value) {
-  browser.storage.sync.set({ name: value });
-}
-function get(name) {
-  return browser.storage.sync.get([name]);
-}
 
 alert(get("discord"));
 // Check the current URL
