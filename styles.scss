@@ -29,6 +29,11 @@ a {
   }
 }
 
+main p {
+  color: $text-color;
+  font-size: 10px;
+}
+
 main {
   .content {
     text-align: center;

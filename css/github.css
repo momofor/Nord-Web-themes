@@ -33,10 +33,14 @@
 
   /* Fixing an issue with a github var, fixing bottom color on pages such as the org members page */
   --color-bg-canvas: var(--pagecolor) !important;
+  --color-calendar-graph-day-bg: var(--pagecolor) !important;
 }
 
 /* For elements */
-
+.ContributionCalendar-day,
+.ContributionCalendar-day[data-level="0"] {
+  display: none;
+}
 body {
   background-color: var(--pagecolor) !important;
 }
@@ -62,7 +66,9 @@ h2 {
   color: var(--secondarytext) !important;
 }
 
-svg {
+svg,
+.ContributionCalendar-day,
+.ContributionCalendar-day[data-level="0"] {
   fill: var(--secondarytext);
 }
 
@@ -234,7 +240,6 @@ button {
   color: var(--usertext) !important;
 }
 
-.border.py-2.graph-before-activity-overview,
 .menu,
 .menu-item.selected,
 .menu-item[aria-current]:not([aria-current="false"]),
@@ -249,7 +254,8 @@ button {
 .border-bottom.color-border-secondary,
 .Box-header.d-flex,
 .social-count.float-none,
-.d-block.comment-body.markdown-body.js-comment-body {
+.d-block.comment-body.markdown-body.js-comment-body,
+.js-calendar-graph.mx-md-2.mx-3.d-flex.flex-column.flex-items-end.flex-xl-items-center.overflow-hidden.pt-1.is-graph-loading.graph-canvas.ContributionCalendar.height-full.text-center {
   background-color: var(--popup-color) !important;
   background: var(--popup-color) !important;
 }
@@ -266,7 +272,6 @@ button {
 }
 
 .topic-tag,
-.border.py-2.graph-before-activity-overview,
 .menu,
 .menu-item.selected,
 .menu-item[aria-current]:not([aria-current="false"]),

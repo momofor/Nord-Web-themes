@@ -25,6 +25,11 @@ a:hover {
   text-decoration: underline;
 }
 
+main p {
+  color: #dedede;
+  font-size: 10px;
+}
+
 main .content {
   text-align: center;
   margin: 0 auto;
