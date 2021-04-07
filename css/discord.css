@@ -1,4 +1,4 @@
-@import url('root.css');
+@import url("root.css");
 
 .theme-dark {
   --header-secondary: var(--bodytext);
@@ -61,8 +61,8 @@ body {
   color: var(--secondarytext);
 }
 
- /* .lookFilled-1Gx00P.colorBrand-3pXr91, https://github.com/Ryan-da-ghost/Nord-Web-Themes/issues/10 */
- .lookInverted-2D7oAl.colorBrand-3pXr91,
+/* .lookFilled-1Gx00P.colorBrand-3pXr91, https://github.com/Ryan-da-ghost/Nord-Web-Themes/issues/10 */
+.lookInverted-2D7oAl.colorBrand-3pXr91,
 .lookInverted-2D7oAl.colorBrand-3pXr91:hover {
   background-color: var(--secondarytext) !important;
   color: var(--bodytext) !important;
@@ -70,16 +70,20 @@ body {
 
 /* Scrollbar grab bar */
 .theme-dark
-.scrollerThemed-2oenus.themedWithTrack-q8E3vB
-.scroller-2FKFPG::-webkit-scrollbar-thumb {
-  background: linear-gradient(130deg, var(--gradientright), var(--gradientleft)) !important;
+  .scrollerThemed-2oenus.themedWithTrack-q8E3vB
+  .scroller-2FKFPG::-webkit-scrollbar-thumb {
+  background: linear-gradient(
+    130deg,
+    var(--gradientright),
+    var(--gradientleft)
+  ) !important;
   border: 1px solid var(--textinputs);
 }
 
 /* Scrollbar container */
 .theme-dark
-.scrollerThemed-2oenus.themedWithTrack-q8E3vB
-.scroller-2FKFPG::-webkit-scrollbar-track-piece {
+  .scrollerThemed-2oenus.themedWithTrack-q8E3vB
+  .scroller-2FKFPG::-webkit-scrollbar-track-piece {
   background-color: var(--textinputs);
   border: none;
 }
@@ -89,7 +93,11 @@ body {
 }
 
 .theme-dark .isMentioned-N-h9aa .mention {
-  background: linear-gradient(130deg, var(--gradientright), var(--gradientleft)) !important;
+  background: linear-gradient(
+    130deg,
+    var(--gradientright),
+    var(--gradientleft)
+  ) !important;
   color: var(--bodytext);
 }
 
@@ -162,7 +170,8 @@ body {
   background: rgba(0, 0, 0, 0.4);
 }
 
-.headerTagNoNickname-ENx6no.headerTag-2pZJzA.size14-3iUx6q.size16-14cGz5.nameTag-m8r81H span {
+.headerTagNoNickname-ENx6no.headerTag-2pZJzA.size14-3iUx6q.size16-14cGz5.nameTag-m8r81H
+  span {
   color: var(--header-secondary);
 }
 
@@ -170,7 +179,8 @@ body {
   background-color: var(--pagecolor) !important;
 }
 
-.headerTagNoNickname-ENx6no.headerTag-2pZJzA.size14-3iUx6q.size16-14cGz5.nameTag-m8r81H span {
+.headerTagNoNickname-ENx6no.headerTag-2pZJzA.size14-3iUx6q.size16-14cGz5.nameTag-m8r81H
+  span {
   color: var(--header-secondary);
 }
 
@@ -181,5 +191,9 @@ body {
 
 .username-1A8OIy.clickable-1bVtEA {
   color: var(--usertext);
+}
+
+.scroller-1d5FgU.auto-Ge5KZx.scrollerBase-289Jih {
+  background: var(--pagecolor);
 }
 /*# sourceMappingURL=discord.css.map */
