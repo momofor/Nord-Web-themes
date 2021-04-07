@@ -1,4 +1,11 @@
 {
+  "default_locale": "en",
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "ryandaphpdev@gmail.com",
+      "strict_min_version": "42.0"
+    }
+  },
   "manifest_version": 2,
   "name": "Nord Web Themes",
   "version": "1.2.2",
@@ -24,12 +31,9 @@
       "js": ["javascript/urlCheck.js"]
     }
   ],
-  "web_accessible_resources": [
-    "css/discord.css",
-    "css/youtube.css",
-    "css/github.css"
-  ],
+  "web_accessible_resources": ["css/*"],
   "background": {
     "scripts": ["index.js"]
-  }
+  },
+  "default_locale": "en"
 }
