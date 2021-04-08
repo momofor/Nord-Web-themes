@@ -29,6 +29,14 @@ For Firefox (on the marketplace):
 - Click on load temporary addon and select the Unziped file you downloaded
 ```
 
+## 💩 Known Issues
+
+```sh
+#1 - Github Not working the way it should
+1. Go to https://github.com/settings/appearance
+2. Select Dark dimmed - Everything should be fine.
+```
+
 ## 👥 Contributors
 
 <table>
