@@ -1,7 +1,5 @@
 <h1 align="center">Welcome to Nord Web Themes 👋</h1>
-<h2><a href="https://addons.mozilla.org/en-US/firefox/addon/nord-web-theme/" target="_blank">Our extension on the fireox marketplace</a></h2>
-<h2><a href="https://microsoftedge.microsoft.com/addons/detail/nord-web-themes/pcaeblapppplaeiahlilfekiclnlphch
-" target="_blank">Our extension on the microsoft marketplace(works for chrome aswell)</a></h2>
+<h2>🥳 <a href="https://addons.mozilla.org/en-US/firefox/addon/nord-web-theme/" target="_blank">We are on the Firefox Marketplace</a></h2>
 <h3><a href="https://discord.gg/VaTDrWrF6a" target="_blank">Join our discord server</a></h3>
 
 > This is a Chrome Extension Which makes popular websites like youtube and discord look good, if you use the google chrome nord theme this will look even better ! Feel free to use this on Edge/Firefox/Google Chrome
@@ -20,7 +18,7 @@ For Chrome:
 - Make sure you turned on developer mode
 - Click on load unpacked and select the Unziped file you downloaded
 
-For Edge (on the marketplace):
+For Edge (Will come on the marketplace):
 - Go to the edge://extensions page
 - Make sure you turned on developer mode
 - Click on load unpacked and select the Unziped file you downloaded
@@ -29,14 +27,6 @@ For Firefox (on the marketplace):
 - Go to the about:debugging page
 - Click On This Firefox
 - Click on load temporary addon and select the Unziped file you downloaded
-```
-
-## 💩 Known Issues
-
-```sh
-#1 - Github Not working the way it should
-1. Go to https://github.com/settings/appearance
-2. Select Dark dimmed - Everything should be fine.
 ```
 
 ## 👥 Contributors
